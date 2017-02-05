@@ -8,7 +8,7 @@
         "jsx": "react"
     },
     "files": [
-        "./src/App.tsx"
+        "./src/Index.tsx"
     ],
     "exclude": [
         "node_modules"
